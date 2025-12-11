@@ -1,10 +1,3 @@
-Below is a **clean, professional, GitHub-ready README** for your AWS RDS project.
-It is written in a format that matches Data Engineer, Cloud Engineer, and AWS RDS Database Engineer job expectations.
-
-You can paste this directly into a `README.md` file in your repo.
-
----
-
 # **Cloud Database Engineering with AWS RDS and Terraform**
 
 This project demonstrates an end-to-end **cloud-native relational database deployment**, including **infrastructure-as-code provisioning**, **data migration**, **query optimization**, and **backup/restore workflows** using **AWS RDS MySQL**, **Terraform**, **S3**, and **Python ETL**.
