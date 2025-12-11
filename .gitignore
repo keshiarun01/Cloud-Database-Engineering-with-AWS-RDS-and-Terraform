@@ -1,0 +1,25 @@
+# Terraform directories
+.terraform/
+.terraform.tfstate
+.terraform.tfstate.backup
+
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Sensitive variable files
+*.tfvars
+
+# AWS credentials (never commit!)
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
+
+# MacOS junk
+.DS_Store
